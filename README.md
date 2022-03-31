@@ -1,5 +1,6 @@
 #  268 Error Fixer Automatic Fix!
 [![virus scan](https://i.imgur.com/RitgN7F.png)](https://www.virustotal.com/gui/file/54676f1373ff88021995da46dc29d349f70fffd912af09e13a85cf4df88181a4)
+
 it has generic trojans, because it mess with injection stuff and spoofing, although its completely safe
 
 ```
