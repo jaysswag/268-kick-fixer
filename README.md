@@ -1,5 +1,6 @@
-#  268 Error Fixer UPDATED!
-[![virus scan](https://i.imgur.com/RitgN7F.png)](https://www.virustotal.com/gui/file/05cc245e91db4abc729da55b45a4550c04c43abf2e5dd41e2c6d0de820c563c3?nocache=1)
+#  268 Error Fixer Automatic Fix!
+[![virus scan](https://i.imgur.com/RitgN7F.png)](https://www.virustotal.com/gui/file/54676f1373ff88021995da46dc29d349f70fffd912af09e13a85cf4df88181a4)
+it has generic trojans, because it mess with injection stuff and spoofing, although its completely safe
 
 ```
 forked from https://github.com/gogo9211/Roblox-Woof 
